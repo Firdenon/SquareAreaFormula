@@ -1,0 +1,6 @@
+use_frameworks!
+target 'squareArea_Tests' do
+  pod 'squareArea', :path => '../'
+  
+  
+end
