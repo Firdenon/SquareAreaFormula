@@ -1,0 +1,16 @@
+PODS:
+  - squareArea (0.1.0)
+
+DEPENDENCIES:
+  - squareArea (from `../`)
+
+EXTERNAL SOURCES:
+  squareArea:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  squareArea: a7a33d416867a01c3859cc4ba579250c9a02e656
+
+PODFILE CHECKSUM: 121e6bb7062c06bd8fe7986ab48a392f004e8468
+
+COCOAPODS: 1.5.3

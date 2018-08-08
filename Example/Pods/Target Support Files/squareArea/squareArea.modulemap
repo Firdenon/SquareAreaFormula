@@ -1,0 +1,6 @@
+framework module squareArea {
+  umbrella header "squareArea-umbrella.h"
+
+  export *
+  module * { export * }
+}
